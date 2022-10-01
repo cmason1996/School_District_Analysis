@@ -16,3 +16,4 @@ After cleaning the data and changing the necessary data types a summary statisti
 Continuing with the analysis the average reading and math score were determined for selected grades
 ---
 To finish the analysis, the data was grouped in several different ways; first, to show the average math scores in the different school types, Charter and Public, for each grade. And then grouped again to list the total number of students in each school.
+<img width="206" alt="student_df_math_score" src="https://user-images.githubusercontent.com/112291888/193431043-84e13b56-65de-4045-b007-74e6349e1ea2.png">
