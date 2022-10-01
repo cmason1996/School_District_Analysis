@@ -9,5 +9,10 @@ The data was first cleaned, any rows with missing data were dropped so as not to
 # Summary
 <img width="660" alt="student_df_head" src="https://user-images.githubusercontent.com/112291888/193430854-8fa562f0-0bfa-4423-9a16-8809d34b6b57.png">
 Above is the first five lines of data
-
+---
 After cleaning the data and changing the necessary data types a summary statistics analysis was preformed to provide some insights to the dataset as a whole, the produced table is below
+<img width="466" alt="student_df_sum_stats" src="https://user-images.githubusercontent.com/112291888/193430933-bf5282ec-1460-49ba-bde8-db2dfabb1ead.png">
+---
+Continuing with the analysis the average reading and math score were determined for selected grades
+---
+To finish the analysis, the data was grouped in several different ways; first, to show the average math scores in the different school types, Charter and Public, for each grade. And then grouped again to list the total number of students in each school.
